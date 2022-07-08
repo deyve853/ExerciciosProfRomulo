@@ -1,0 +1,8 @@
+C:\Users\Aluno\Documents\C#\ExerciciosProfRomulo\ExeciciosProfRolumo.MatematicaBasica\bin\Debug\ExeciciosProfRolumo.MatematicaBasica.exe.config
+C:\Users\Aluno\Documents\C#\ExerciciosProfRomulo\ExeciciosProfRolumo.MatematicaBasica\bin\Debug\ExeciciosProfRolumo.MatematicaBasica.exe
+C:\Users\Aluno\Documents\C#\ExerciciosProfRomulo\ExeciciosProfRolumo.MatematicaBasica\bin\Debug\ExeciciosProfRolumo.MatematicaBasica.pdb
+C:\Users\Aluno\Documents\C#\ExerciciosProfRomulo\ExeciciosProfRolumo.MatematicaBasica\obj\Debug\ExeciciosProfRolumo.MatematicaBasica.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\C#\ExerciciosProfRomulo\ExeciciosProfRolumo.MatematicaBasica\obj\Debug\ExeciciosProfRolumo.MatematicaBasica.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Documents\C#\ExerciciosProfRomulo\ExeciciosProfRolumo.MatematicaBasica\obj\Debug\ExeciciosProfRolumo.MatematicaBasica.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\C#\ExerciciosProfRomulo\ExeciciosProfRolumo.MatematicaBasica\obj\Debug\ExeciciosProfRolumo.MatematicaBasica.exe
+C:\Users\Aluno\Documents\C#\ExerciciosProfRomulo\ExeciciosProfRolumo.MatematicaBasica\obj\Debug\ExeciciosProfRolumo.MatematicaBasica.pdb
